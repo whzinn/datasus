@@ -1,8 +1,9 @@
 
 ![alt texto](IMG_20230204_063609_608.jpg)
 
-# datasus
-Banco de dados datasus
+# Descrição 
+Estes dados foram extraídos do datasus (Departamento de Informática do Sistema Único de Saúde)
+na data de 05/2021 por uma falha na autenticação da api
 
 # Informações pessoais
 | Campo | Descrição |
