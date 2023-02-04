@@ -5,7 +5,7 @@
 Estes dados foram extraídos do datasus (Departamento de Informática do Sistema Único de Saúde)
 na data de 05/2021 por uma falha na autenticação da api
 
-# Informações pessoais
+# Informações contidas
 | Campo | Descrição |
 | --- | --- |
 | CPF | Número de Cadastro de Pessoa Física |
@@ -27,6 +27,7 @@ na data de 05/2021 por uma falha na autenticação da api
 | CNS | Cartão Nacional de Saúde |
 | Telefone | Número de telefone |
 # Sobre o arquivo
-* Quantidade de linhas: 180 milhões de registros
-* Tamanho: 40GB
-* Ano de extração: 2021
+* número total de linhas: 180.437.197
+* Tamanho do banco de dados: 40GB
+# Contato
+* telegram: https://t.me/whzinn
