@@ -31,5 +31,5 @@ na data de 05/2021 por uma falha na autenticação da api
 # Sobre o arquivo
 * Número total de linhas: 182.437.197
 * Tamanho do banco de dados: 40GB
-# Contato
+# Mais informações 
 * telegram: https://t.me/whzinn
