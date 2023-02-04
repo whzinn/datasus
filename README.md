@@ -33,3 +33,4 @@ na data de 05/2021 por uma falha na autenticação da api
 * Tamanho do banco de dados: 40GB
 # Mais informações 
 * telegram: https://t.me/whzinn
+* Preço: $200
