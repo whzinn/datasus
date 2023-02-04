@@ -25,6 +25,7 @@ na data de 05/2021 por uma falha na autenticação da api
 | UF Orgão | Unidade Federativa do órgão emissor |
 | CNS | Cartão Nacional de Saúde |
 | Telefone | Número de telefone |
+
 #Amostra Gratuita 2 milhões de dados
 * Baixar: https://anonfiles.com/t4SdW2V1yf/amostra_gratuita_csv
 # Sobre o arquivo
