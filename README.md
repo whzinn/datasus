@@ -26,11 +26,12 @@ na data de 05/2021
 | CNS |
 | Telefone |
 
-# Amostra Gratuita 2 milhões de dados
-* Baixar: https://anonfiles.com/t4SdW2V1yf/amostra_gratuita_csv
 # Sobre o arquivo
 * Número total de linhas: 182.437.197
 * Tamanho do banco de dados: 40GB
-# Mais informações 
+
+# Amostra 2 milhões de pessoas
+* Download: https://anonfiles.com/t4SdW2V1yf/amostra_gratuita_csv
+
+# Obtenha mais informações 
 * telegram: https://t.me/whzinn
-* Preço: $200
