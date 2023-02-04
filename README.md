@@ -1,5 +1,4 @@
 
-![alt texto](IMG_20230204_063609_608.jpg)
 
 # Descrição 
 Estes dados foram extraídos do datasus (Departamento de Informática do Sistema Único de Saúde)
