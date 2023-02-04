@@ -7,7 +7,7 @@ na data de 05/2021 por uma falha na autenticação da api
 # Informações contidas
 | Campo | Descrição |
 | --- | --- |
-| CPF | Número de Cadastro de Pessoa Física |
+| CPF |
 | Nome | Nome completo da pessoa |
 | Data de nascimento | Data de nascimento da pessoa |
 | Sexo | Gênero da pessoa |
