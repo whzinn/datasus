@@ -2,7 +2,10 @@
 
 Acesse a api: http://139.144.31.212/sus/00000000272
 
-Insira o CPF no final, nem todas as respostas virão
-detemos apenas 72% da população brasileira
+DIGITE O CPF NO FINAL COMO DESCRITO, NEM TODAS
+RESPOSTAS SERÃO REQUISITADAS COM ÊXITO, POIS
+TEMOS UM BANCO DE DADOS INCOMPLETO
+
+Eu não me responsabilizo pelo mau uso da api
 
 Meu contato https://t.me/wnxiw
