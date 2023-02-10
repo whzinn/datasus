@@ -8,4 +8,5 @@ TEMOS UM BANCO DE DADOS INCOMPLETO
 
 Eu não me responsabilizo pelo mau uso da api
 
+#Aceito propostas
 Meu contato https://t.me/wnxiw
